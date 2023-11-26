@@ -1,0 +1,1 @@
+export const DEBOUNCED_SHERCH = 500
